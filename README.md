@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Anushka Madiwale 👋 </h1>
+<!-- <h1 align="center">Hi there! I'm Anushka Madiwale 👋 </h1>
 
 <img class="fit-picture" align="right"
      width="400" height="400"
@@ -7,7 +7,7 @@
 
 <!--
 Here are some ideas to get you started:
--->
+
 
 <h3>
   
@@ -83,6 +83,7 @@ Here are some ideas to get you started:
 <p align="center">
    <img src="https://komarev.com/ghpvc/?username=RohiniRG&label=PROFILE+VIEWS&style=flat-square&color=blue")
 </p>  
+
      
 
 [linkedin]: https://www.linkedin.com/in/rohini-rao-39ab291a4/
@@ -91,4 +92,4 @@ Here are some ideas to get you started:
 [gmail]: rohinirao2112@gmail.com
 
 <br /> 
-
+-->
