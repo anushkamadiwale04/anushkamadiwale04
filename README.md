@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 <br>
 
 [<img align="center" alt="Anushka Madiwale | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
-</h1>
 [<img align="center" alt="Anushka Madiwale | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 [<img align="center" alt="Anushka Madiwale | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 
+</h1>
 
 <h1 align="center">Github Stats 📈
 <br />
